@@ -1,0 +1,12 @@
+{
+  "client": {
+    "source": "client"
+  },
+  "applogic": {
+    "targets": [
+      "brain_js_ai"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}
